@@ -1,5 +1,5 @@
 <!doctype html>
-<title>Site Maintenance</title>
+<title>Site em Manutenção</title>
 <style>
   body { text-align: center; padding: 150px; }
   h1 { font-size: 50px; }
@@ -10,7 +10,7 @@
 </style>
 
 <article>
-    <h1>Voltaremos em breve!</h1>
+    <h1>Voltaremos em breve com muitas novidades!</h1>
     <div>
         <p>Pedimos desculpa pelo incómodo, mas estamos a fazer uma manutenção neste momento. Se precisar, pode sempre <a href="mailto:catedralbrandoa2022@gmail.com">contactar-nos</a>, caso contrário, voltaremos a estar online em breve!
 </p>
